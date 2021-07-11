@@ -1,2 +1,5 @@
 # House-price-prediction_Prosperati-dataset.
-Predictive model using Linear and Polynomic Regression and Neural Networks.
+
+Modelo predictivo usando Regresión Lineal y Redes Neuronales con el dataset de Prosperati.
+
+Predictive model using Linear Regression and Neural Networks with the Prosperati dataset. 
